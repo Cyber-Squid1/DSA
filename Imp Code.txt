@@ -1,0 +1,7 @@
+Inbuilt function to copy code from one memory location to another
+
+#include <string.h>
+memcpy(*p,*q);
+
+*p= source pointer
+*q= destination pointer
